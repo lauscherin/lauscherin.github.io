@@ -8,15 +8,16 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
+  primary: ffa316 #fed136
   secondary: fec503  
-  secondary-dark: 333
+  secondary-dark: 6b2247 #43152c #333
+  secondary-bright: 5ff0b2
 
 # Team names, titles and social links
 people:
 - name: Angela Noll
   pic: 1
-  position: Ph.D student
+  position: Ph.D student Biology
   social:
     - title: twitter
       url: #
