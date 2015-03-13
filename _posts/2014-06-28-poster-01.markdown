@@ -1,15 +1,15 @@
 ---
-title: GPAC - Publication
+title: GPAC - Poster
 subtitle: Genome Presence/Absence Compiler
 layout: default
-modal-id: 01
-date: 2014-09-21
-img: GPAC-paper.png
-thumbnail: GPAC-font.png
+modal-id: 02
+date: 2014-06-28
+img: GPAC-poster.png
+thumbnail: GPAC-poster.png
 alt: image-alt
-project-date: September 2014
-client: http://mbe.oxfordjournals.org/content/32/1/275.full
-thumb: http://mbe.oxfordjournals.org/
+project-date: June 2014
+client: 
+thumb: 
 further: http://www.bioinformatics.uni-muenster.de/tools/gpac/
 category: Bioinformatics
 description: Our understanding of genome-wide and comparative sequence information has been broadened considerably by the databases available from the University of California Santa Cruz (UCSC) Genome Bioinformatics Department. In particular, the identification and visualization of genomic sequences, present in some species but absent in others, led to fundamental insights into gene and genome evolution. However, the UCSC tools currently enable one to visualize orthologous genomic loci for a range of species in only a single locus. For large-scale comparative analyses of such presence/absence patterns a multilocus view would be more desirable. Such a tool would enable us to compare thousands of relevant loci simultaneously and to resolve many different questions about, for example, phylogeny, specific aspects of genome and gene evolution, such as the gain or loss of exons and introns, the emergence of novel transposed elements, nonprotein-coding RNAs, and viral genomic particles. Here, we present the first tool to facilitate the parallel analysis of thousands of genomic loci for cross-species presence/absence patterns based on multiway genome alignments. This genome presence/absence compiler uses annotated or other compilations of coordinates of genomic locations and compiles all presence/absence patterns in a flexible, color-coded table linked to the individual UCSC Genome Browser alignments. We provide examples of the versatile information content of such a screening system especially for 7SL-derived transposed elements, nuclear mitochondrial DNA, DNA transposons, and miRNAs in primates .
