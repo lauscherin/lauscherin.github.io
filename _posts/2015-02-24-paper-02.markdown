@@ -1,0 +1,16 @@
+---
+title: Tailless Retropseudogenes - Paper
+subtitle: Ancient Traces in Therian Genomes
+layout: default
+modal-id: 03
+date: 2015-02-24
+img: tailless-paper.png
+thumbnail: tailless-paper.png
+alt: image-alt
+project-date: February 2015
+client: http://gbe.oxfordjournals.org/content/7/3/889
+thumb: http://mbe.oxfordjournals.org/
+further: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC524414/
+category: Bioinformatics
+description: Transposable elements, once described by Barbara McClintock as controlling genetic units, not only occupy the largest part of our genome but are also a prominent moving force of genomic plasticity and innovation. They usually replicate and reintegrate into genomes silently, sometimes causing malfunctions or misregulations, but occasionally millions of years later, a few may evolve into new functional units. Retrotransposons make their way into the genome following reverse transcription of RNA molecules and chromosomal insertion. In therian mammals, long interspersed elements 1 (LINE1s) self-propagate but also coretropose many RNAs, including mRNAs and small RNAs that usually exhibit an oligo(A) tail. The revitalization of specific LINE1 elements in the mammalian lineage about 150 Ma parallels the rise of many other nonautonomous mobilized genomic elements. We previously identified and described hundreds of tRNA-derived retropseudogenes missing characteristic oligo(A) tails consequently termed tailless retropseudogenes. Additional analyses now revealed hundreds of thousands of tailless retropseudogenes derived from nearly all types of RNAs. We extracted 2,402 perfect tailless sequences (with discernible flanking target site duplications) originating from tRNAs, spliceosomal RNAs, 5S rRNAs, 7SK RNAs, mRNAs, and others. Interestingly, all are truncated at one or more defined positions that coincide with internal single-stranded regions. 5S ribosomal and U2 spliceosomal RNAs were analyzed in the context of mammalian phylogeny to discern the origin of the therian LINE1 retropositional system that evolved in our 150-Myr-old ancestor.
+---
